@@ -1,11 +1,3 @@
-# Fundstack iOS Challenge
-
-Thank you for your interest in joining Fundstack!
-
-As part of our interview process we like to get a feeling for how a developer works and the quality of the end products that they produce. This exercise is designed to give you the opportunity to show how you would design and implement a simple application with functionality similar to that which you would be working on if you joined Fundstack.
-
-In particular we are looking to judge the quality of the core architectural decisions you make, your awareness of the tradeoffs associated with those decisions, and the overall feeling of quality to the resulting application.
-
 ## The Challenge
 
 The goal of this challenge is to create a simple company search application using the [Clearbit AutoComplete API](https://clearbit.com/docs#autocomplete-api). This API allows you to submit a search string and find companies that could be a match for that query. 
